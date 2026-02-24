@@ -1,0 +1,20 @@
+# Credentials and sensitive files
+.credentials.env
+*.env
+*.key
+*_key
+*_token
+*_secret
+
+# OpenClaw workspace state
+.openclaw/
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+.DS_Store
+.vscode/
